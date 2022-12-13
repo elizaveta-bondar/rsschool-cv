@@ -1,4 +1,5 @@
 # Yelyzaveta Bondar
+## QA Engineer
 
 ## About me
 
@@ -8,16 +9,18 @@ It may not seem obvious, but the reasons for my choice are clear: I formed a cri
 
 I am incredibly passionate about software testing and expand my knowledge in this area every day.
 
-## Contacts##
-**Telegram:** @lizka_bondar
+## Contacts
+
 **Email:** elizaveta.bondar29@gmail.com
+
 **Linkedin:**@yelyzavetabondar
+
 **Adress:** Kyiv, Ukraine
 
 ## Languages ## 
 - English В1 (Intermediate);
 - Ukrainian (fluent);
-= Russian (fluent).
+- Russian (fluent).
 
 ## Technologies and tools
 ![](https://img.shields.io/badge/-HTML/CSS-FEDBE5?style=for-the-badge&logo=HTML5&logoColor=111)
@@ -34,15 +37,15 @@ I am incredibly passionate about software testing and expand my knowledge in thi
 ## Professional skills
 - Knowledge of basic QA concepts;
 - Ability to work with test documentation (test cases, checklists, bug reports, test plans);
- -Understanding of test design techniques;
+- Understanding of test design techniques;
 - Basic knowledge of SQL queries and MySQL database;
 - Manual testing of web and mobile applications;
 - Understanding of client-server architecture and API principles.
 
-## Work experience##
+## Work experience
 **Paralegal**
 Law Company "Arbitrium"
-February 2018 — June 2022
+_February 2018 — June 2022_
 
 - Drafted legal documents (lawsuits, complaints, statements, request);
 - Conducted legal research, formed a defense strategy clients in court cases;
@@ -51,19 +54,26 @@ February 2018 — June 2022
 - Provided case support at all stages of the trial consideration.
 
 ## Education ##
-Yaroslav Mudryi National Law University, Kharkiv
-Master of Laws (with honours).
-Faculty of Advocacy, specialization "Law", (2013 — 2019)
-Received fundamental knowledge of the theory and practice of law;
-The average score of the diploma is 97.0.
+
+**Yaroslav Mudryi National Law University, Kharkiv**
+_Master of Laws (with honours)._
+_Faculty of Advocacy, specialization "Law", (2013 — 2019)_
+- Received fundamental knowledge of the theory and practice of law;
+- The average score of the diploma is 97.0.
 
 ## Courses ##
+
 **Beetroot Academy**
-QA manual (current student)
+
+_QA manual (current student)_
+
 **SheCodes: Coding workshops for women**
-SheCodes Basics (April 2022)
-SheCodes Plus (June — August 2022)
+
+_SheCodes Basics (April 2022)_
+_SheCodes Plus (June — August 2022)_
+
 **QATestLab Training Center**
-Online course "Fundamentals of software testing" (April 2022)
+
+_Online course "Fundamentals of software testing" (April 2022)_
 
 
