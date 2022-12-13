@@ -1,6 +1,6 @@
 # Yelyzaveta Bondar
 
-# About me
+## About me
 
 I worked as a lawyer for more than 4 years in litigation support, and I have much experience in law. But at a certain point in my life, I wanted to change careers and chose to be a QA Engineer.
 
@@ -8,13 +8,18 @@ It may not seem obvious, but the reasons for my choice are clear: I formed a cri
 
 I am incredibly passionate about software testing and expand my knowledge in this area every day.
 
-# Contacts
+## Contacts##
 **Telegram:** @lizka_bondar
 **Email:** elizaveta.bondar29@gmail.com
 **Linkedin:**@yelyzavetabondar
 **Adress:** Kyiv, Ukraine
 
-# Technologies and tools
+## Languages ## 
+- English В1 (Intermediate);
+- Ukrainian (fluent);
+= Russian (fluent).
+
+## Technologies and tools
 ![](https://img.shields.io/badge/-HTML/CSS-FEDBE5?style=for-the-badge&logo=HTML5&logoColor=111)
 [![](https://img.shields.io/badge/-JavaScript-FEDBE5?style=for-the-badge&logo=JavaScript&logoColor=111)](https://github.com/elizaveta-bondar/my-portfolio-JavaScript-projects)
 ![](https://img.shields.io/badge/-SQL-FEDBE5?style=for-the-badge&logo=mysql&logoColor=111)
@@ -26,7 +31,7 @@ I am incredibly passionate about software testing and expand my knowledge in thi
 ![](https://img.shields.io/badge/-TestRail-FEDBE5?style=for-the-badge&logo=TestRail&logoColor=111)
 ![](https://img.shields.io/badge/-TestLink-FEDBE5?style=for-the-badge&logo=TestRail&logoColor=111)
 
-**Professional skills**
+## Professional skills
 - Knowledge of basic QA concepts;
 - Ability to work with test documentation (test cases, checklists, bug reports, test plans);
  -Understanding of test design techniques;
@@ -34,7 +39,7 @@ I am incredibly passionate about software testing and expand my knowledge in thi
 - Manual testing of web and mobile applications;
 - Understanding of client-server architecture and API principles.
 
-**Work experience**
+## Work experience##
 **Paralegal**
 Law Company "Arbitrium"
 February 2018 — June 2022
@@ -45,14 +50,14 @@ February 2018 — June 2022
 - Resolved civil and family disputes, including through arbitration mediation;
 - Provided case support at all stages of the trial consideration.
 
-**Education**
+## Education ##
 Yaroslav Mudryi National Law University, Kharkiv
 Master of Laws (with honours).
 Faculty of Advocacy, specialization "Law", (2013 — 2019)
 Received fundamental knowledge of the theory and practice of law;
 The average score of the diploma is 97.0.
 
-**Courses**
+## Courses ##
 **Beetroot Academy**
 QA manual (current student)
 **SheCodes: Coding workshops for women**
@@ -61,7 +66,4 @@ SheCodes Plus (June — August 2022)
 **QATestLab Training Center**
 Online course "Fundamentals of software testing" (April 2022)
 
-**Languages**
-English В1 (Intermediate);
-Ukrainian (fluent);
-Russian (fluent).
+
